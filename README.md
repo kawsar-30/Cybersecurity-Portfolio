@@ -5,7 +5,7 @@
 
 <!-- ANIMATED INTRODUCTION -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00E4FF&center=true&vCenter=true&random=false&width=700&height=70&lines=Hi+there%2C+I'm+MD.+Kausar+Hossain;I'm+Cyber+Security+Analyst;Penetration+Tester+%26+SOC+Analyst;Vulnerability+Researcher;Offensive+Security+Professional" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00E4FF&center=true&vCenter=true&random=false&width=700&height=70&lines=Hi+there%2C+I'm+MD.+Kawsar+Hossain;I'm+Cyber+Security+Analyst;Penetration+Tester+%26+SOC+Analyst;Vulnerability+Researcher;Offensive+Security+Professional" alt="Typing SVG" />
 </h1>
 
 <!-- ABOUT ME SECTION -->
@@ -22,7 +22,7 @@
 ## 💫 About Me
 
 ```bash
-kausar@cyber-analyst:~$ cat profile.txt
+kawsar@cyber-analyst:~$ cat profile.txt
 ```
 
 I AM A **CYBER SECURITY ANALYST** specializing in vulnerability research and offensive security operations. As an **NSDA Level 4 Penetration Tester**, I am trained to identify and mitigate high-level security risks through systematic exploitation and analysis.
@@ -50,7 +50,7 @@ By leveraging my background in **CCNA-Level networking**, I analyze network traf
 - Active Incident Response
 - Log Analysis & Forensics
 
-### 🧰 Arsenal & Tools
+### 🧰  Tools
 
 **Penetration Testing Toolkit:**
 - **Burp Suite** - Web Application Security Testing
@@ -161,33 +161,7 @@ By leveraging my background in **CCNA-Level networking**, I analyze network traf
 
 </div>
 
----
 
-## 📊 Expertise Matrix
-
-```
-PENETRATION_TESTING_SKILLS
-├─ Penetration Testing        █████████░ 95%
-├─ Vulnerability Analysis     █████████░ 95%
-├─ Web Application Security   █████████░ 95%
-├─ Network Security           ████████░░ 90%
-├─ Linux System Security      ████████░░ 90%
-├─ OSINT & Reconnaissance     ████████░░ 85%
-└─ Python Scripting          ███████░░░ 80%
-
-SOC_ANALYST_SKILLS
-├─ Threat Hunting            █████████░ 95%
-├─ Incident Response         █████████░ 95%
-├─ SIEM Management           ████████░░ 90%
-├─ Malware Detection         ████████░░ 90%
-├─ Log Analysis              ████████░░ 90%
-├─ FIM Monitoring            ███████░░░ 85%
-├─ Host Monitoring           ███████░░░ 85%
-├─ Threat Intelligence       ████████░░ 90%
-└─ Active Response           ████████░░ 90%
-```
-
----
 
 ## 🔍 Methodology & Approach
 
@@ -213,9 +187,9 @@ I follow a structured approach to security assessment:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kawsar-30)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/kawsarhossain30/))
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/01629333638)
 
 </div>
 
@@ -318,7 +292,7 @@ def security_approach():
 
 ---
 
-**© 2026 MD. KAUSAR HOSSAIN | ALL RIGHTS RESERVED**
+**© 2026 MD. KAWSAR HOSSAIN | ALL RIGHTS RESERVED**
 
 *"Protecting the digital frontier, one vulnerability at a time."*
 
