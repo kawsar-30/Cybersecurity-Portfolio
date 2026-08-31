@@ -1,0 +1,14 @@
+<!-- Add this to /var/ossec/etc/ossec.conf on the Wazuh Manager -->
+
+<command>
+  <name>usb-block</name>
+  <executable>usb_prevent_ar_script.exe</executable>
+  <timeout_allowed>yes</timeout_allowed>
+</command>
+
+<active-response>
+  <command>usb-block</command>
+  <location>local</location>
+  <rules_id>100016</rules_id>
+  <timeout>180</timeout>
+</active-response>
