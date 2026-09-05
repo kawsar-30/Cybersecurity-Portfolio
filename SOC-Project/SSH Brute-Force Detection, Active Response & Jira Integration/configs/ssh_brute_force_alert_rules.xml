@@ -1,0 +1,12 @@
+<group name="ssh_attack,custom_detection,">
+
+  <rule id="5720" level="12" frequency="6" timeframe="60" overwrite="yes">
+   <if_matched_sid>5716</if_matched_sid>
+   <same_source_ip />
+   <description>Custom SOC: Multiple SSH authentication failures (Brute Force).</description>
+   <mitre>
+    <id>T1110</id>
+   </mitre>
+  </rule>
+
+</group>
