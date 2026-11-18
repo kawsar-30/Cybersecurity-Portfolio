@@ -1,6 +1,6 @@
 <!-- CYBERSECURITY BANNER -->
 <div align="center">
-  <img src="https://github.com/rafat1999/rafat1999/blob/main/enhanced-cyber-banner.svg" alt="Cyber Security Banner">
+  <img src="banner.jpg" alt="Cyber Security Banner">
 </div>
 
 <!-- ANIMATED INTRODUCTION -->
